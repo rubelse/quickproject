@@ -1,0 +1,197 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+body{
+font-family: 'Poppins', sans-serif; 
+	font-size: 14px;
+	line-height: 24px;
+}
+h1, h2, h3, h4, h5, h6{
+	 
+font-family: 'Poppins', sans-serif; 
+}
+a, a:hover{
+	text-decoration: none;
+}
+/*global css*/
+.container{
+	width:1140px;
+	height:0px auto; 
+
+}
+
+.row{
+	width: 100%;
+	float: left;
+}
+.col-6{
+	width: 50%;
+	float: left;
+}
+.col-4{
+	width: 33.33%;
+	float: left;
+}
+.col-12{
+	width: 100%;
+	float: left;
+	/*global css end*/
+}
+.header{
+	width: 100%;
+	float: left;
+	padding: 15px 0px;
+	border-bottom: 1px solid #eee;
+	background-color: #E6E6E6;
+	position: fixed;
+
+
+}
+.header .logo{
+	width: auto;
+
+}
+.header .nav{
+	width: 100%;
+	float: left;
+	text-align: right;
+}
+
+
+.header .nav li{
+	list-style: none;
+	display: inline-block;
+	margin: 10px 0px 0px;
+}
+.header .nav li a{
+	font-size: 20px;
+	font-weight:400 ;
+	text-transform: capitalize;
+	color: #0F89D0;
+	margin: 0px 0px 0px 20px;
+}
+.header .nav li a:hover{
+	color:#FF9800;
+}
+.baner{
+	width: 100%;
+	float: left;
+	padding: 80px 0px;
+	text-align: center;
+}
+.baner h1{
+	font-size: 60px;
+	font-weight: 300px;
+	line-height: 70px;
+	margin: 0px 0px 20px;
+
+}
+.baner h1 span{
+	color: blue;
+
+}
+.baner p{
+	font-size: 20px;
+	font-weight: 100px;
+
+    color: #008AFF;
+	margin: 0px 0px 40px;
+
+}
+.baner .baner-img{
+	width: 50%;
+}
+.succesessfull{
+	width:100%;
+	float: 
+	padding:; 
+
+}
+.succesess-left{
+	width: 100%;
+	float: left;
+	text-align: right;
+	background-color
+}
+.succesess-left h1{
+	font-size: 70px;
+	font-weight: px;
+	line-height: 90px;
+	color: #008AFF;
+	margin: 0px 30px 0px 0px;
+	
+}
+.succesess-left p{
+	font-size: 14px;
+	font-weight: 80px 0px;
+	line-height: 30px;
+	color: 
+	margin: 0px 20px 0px 0px;
+}
+.succesess-right{
+	font-size: 50px;
+	font-weight: 50px;
+	line-height: 90px;
+	color: #0F2656;
+	margin: 0px 0px 0px 25px;
+}
+.feature{
+	width: 100%;
+	float: left;
+	padding: 40px 0px;
+}
+.left-image{
+	width: 80%;
+	float: left;
+	padding: 40px 40px;
+}
+.left-image .innerpic{
+	width: 100%;
+	height: 240px;
+}
+.left-image h5{
+        font-size: 20px;
+	font-weight: px;
+	line-height: 50px;
+	color: black;
+	margin: 0px 30px 0px 0px;
+
+}
+.left-image p{
+	   font-size: 15px;
+	font-weight: px;
+	line-height: 20px;
+	color: black;
+}
+
+.cl1{
+	background-color: #008AFF;
+}
+.cl2{
+	background-color: #EBF9F4;
+}
+.cl3{
+	background-color: #FFF7E8;
+}
+.footer{
+	width: 100%;
+	float: left;
+	padding: 25px 0px;
+	background-color: #008AFF;
+}
+.footer p{
+	font-size: 22px;
+    font-weight: 
+    line height: px;
+    color: #94CEFF;
+    text-align: center;
+
+}
+.footer p a{
+	font-weight: 1000;
+	text-transform: uppercase;
+	letter-spacing:  5px;
+	color: #fff
+
+}
